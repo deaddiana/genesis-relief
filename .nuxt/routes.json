@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_39883627"
+  },
+  {
+    "name": "disasters",
+    "path": "/disasters",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/disasters.vue",
+    "chunkName": "pages/disasters",
+    "_name": "_88c29e68"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_7c085935"
+  },
+  {
+    "name": "newsletter",
+    "path": "/newsletter",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/newsletter.vue",
+    "chunkName": "pages/newsletter",
+    "_name": "_7563858f"
+  },
+  {
+    "name": "resources",
+    "path": "/resources",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/resources.vue",
+    "chunkName": "pages/resources",
+    "_name": "_465c9882"
+  },
+  {
+    "name": "updates",
+    "path": "/updates",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/updates.vue",
+    "chunkName": "pages/updates",
+    "_name": "_51851738"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/dianagonzalez/Desktop/genesis-relief/genesis-relief-project/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_594010ec"
+  }
+]
