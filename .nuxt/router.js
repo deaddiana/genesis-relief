@@ -4,13 +4,13 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _39883627 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
-const _88c29e68 = () => interopDefault(import('../pages/disasters.vue' /* webpackChunkName: "pages/disasters" */))
-const _7c085935 = () => interopDefault(import('../pages/home.vue' /* webpackChunkName: "pages/home" */))
-const _7563858f = () => interopDefault(import('../pages/newsletter.vue' /* webpackChunkName: "pages/newsletter" */))
-const _465c9882 = () => interopDefault(import('../pages/resources.vue' /* webpackChunkName: "pages/resources" */))
-const _51851738 = () => interopDefault(import('../pages/updates.vue' /* webpackChunkName: "pages/updates" */))
-const _594010ec = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _023bb640 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
+const _50809b05 = () => interopDefault(import('../pages/disasters.vue' /* webpackChunkName: "pages/disasters" */))
+const _0ec92f5c = () => interopDefault(import('../pages/home.vue' /* webpackChunkName: "pages/home" */))
+const _7cbee276 = () => interopDefault(import('../pages/newsletter.vue' /* webpackChunkName: "pages/newsletter" */))
+const _71b39df8 = () => interopDefault(import('../pages/resources.vue' /* webpackChunkName: "pages/resources" */))
+const _a452ce46 = () => interopDefault(import('../pages/updates.vue' /* webpackChunkName: "pages/updates" */))
+const _1e99ffa5 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -25,31 +25,31 @@ export const routerOptions = {
 
   routes: [{
     path: "/about",
-    component: _39883627,
+    component: _023bb640,
     name: "about"
   }, {
     path: "/disasters",
-    component: _88c29e68,
+    component: _50809b05,
     name: "disasters"
   }, {
     path: "/home",
-    component: _7c085935,
+    component: _0ec92f5c,
     name: "home"
   }, {
     path: "/newsletter",
-    component: _7563858f,
+    component: _7cbee276,
     name: "newsletter"
   }, {
     path: "/resources",
-    component: _465c9882,
+    component: _71b39df8,
     name: "resources"
   }, {
     path: "/updates",
-    component: _51851738,
+    component: _a452ce46,
     name: "updates"
   }, {
     path: "/",
-    component: _594010ec,
+    component: _1e99ffa5,
     name: "index"
   }],
 
