@@ -18,6 +18,18 @@ import card from '~/components/card.vue'
 import axios from 'axios'
 
 export default {
+  head: {
+    title: 'disasters-genesis-relief',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'page displaying recent disasters'
+      }
+    ],
+  },
   components: {
       card
   },

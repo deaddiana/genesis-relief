@@ -18,6 +18,18 @@
 <script>
 import ArticlesCom from "../components/ArticlesCom"
 export default {
+  head: {
+    title: 'updates-genesis-relief',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'page displaying recent news articles and updates'
+      }
+    ],
+  },
   name: 'UpdatesPage',
   components: {
     ArticlesCom

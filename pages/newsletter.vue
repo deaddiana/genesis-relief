@@ -124,6 +124,18 @@
 
 <script>
 export default {
+  head: {
+    title: 'newsletter-genesis-relief',
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'page displaying genesis relief newsletter email subscription'
+      }
+    ],
+  },
   name: 'NewsletterPage',
   data() {
     return {
