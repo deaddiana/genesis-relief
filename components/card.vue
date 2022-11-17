@@ -2,7 +2,7 @@
  <article class="card">
 	 <h2 class="card__title">{{ name }}</h2>
 	 <p class="card__copy" v-for="(type, id) in types">{{ type.name }}</p>
-   <a class="url" :href="url" target="_blank">{{ url}}</a>
+   <a class="url" :href="url" target="_blank">{{ url }}</a>
  </article>
 </template>
 

@@ -1,33 +1,15 @@
 {
-  "AboutPage": {
-    "description": "Auto imported from components/AboutPage.vue"
-  },
   "ArticlesCom": {
     "description": "Auto imported from components/ArticlesCom.vue"
-  },
-  "DisastersPage": {
-    "description": "Auto imported from components/DisastersPage.vue"
   },
   "HeaderCom": {
     "description": "Auto imported from components/HeaderCom.vue"
   },
-  "HomePage": {
-    "description": "Auto imported from components/HomePage.vue"
-  },
-  "NewsletterPage": {
-    "description": "Auto imported from components/NewsletterPage.vue"
-  },
   "NuxtLogo": {
     "description": "Auto imported from components/NuxtLogo.vue"
   },
-  "ResourcesPage": {
-    "description": "Auto imported from components/ResourcesPage.vue"
-  },
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
-  },
-  "UpdatesPage": {
-    "description": "Auto imported from components/UpdatesPage.vue"
   },
   "Card": {
     "description": "Auto imported from components/card.vue"

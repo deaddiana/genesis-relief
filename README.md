@@ -1,4 +1,4 @@
-# genesis-relief-project
+# genesis-relief
 
 ## Build Setup
 
